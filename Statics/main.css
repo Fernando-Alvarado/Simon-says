@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor{
+    position: absolute;
+    left: 17%;
+    top: 33%;
+}
+.shine1{
+    background-color: #FC3D16;
+}
+.shine2{
+    background-color: #F37409;
+}
+.shine3{
+    background-color: #F9F216;
+}
+.shine4{
+    background-color: #16F927;
+}
+.shine5{
+    background-color: #16F9E8;
+}
+.shine6{
+    background-color: #8B16F9;
+}
+.shine7{
+    background-color: #F916CC;
+}
+.myCanvas1{
+    background-color: rgba(153, 62, 44, 0.6);
+}
+.myCanvas2{
+    background-color: rgba(243, 116, 9, .6);    
+}
+.myCanvas3{
+    background-color: rgba(249, 242, 22, .6);    
+}
+.myCanvas4{
+    background-color: rgba(22, 249, 39, .6);    
+}
+.myCanvas5{
+    background-color: rgba(22, 249, 232, .6);
+}
+.myCanvas6{
+    background-color: rgba(139, 22, 249, .6);
+}
+.myCanvas7{
+    background-color: rgba(249, 22, 204, .3);
+}
